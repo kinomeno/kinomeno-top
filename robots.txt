@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kinomeno.com/sitemap.xml

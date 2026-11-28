@@ -1,0 +1,26 @@
+# Kinomeno.com
+
+> Kinomeno (キノメノ) is an independent creator in Japan who makes small free browser games and tools. Everything runs in the browser, no install.
+> キノメノが作った、無料のブラウザゲームと小さな道具の紹介サイト。
+
+## Works / 作品
+- [ほりほり工場 / Dig Factory Tycoon](https://horihori.kinomeno.com): 地面を縦に掘り進め、資源を運んで加工して売る、採掘経営ゲーム。 (about: https://www.kinomeno.com/works/horihori/)
+- [Song2Game](https://song2game.vercel.app): 手持ちの音楽ファイルから、その場で音楽ゲーム（音ゲー）を作って遊べるアプリ。 (about: https://www.kinomeno.com/works/song2game/)
+- [wavea](https://wavea.vercel.app): 波・ノイズ・繰り返しから、流れる模様の画像や動画をその場で作るアプリ。 (about: https://www.kinomeno.com/works/wavea/)
+- [エコノフリ / eco nofuri](https://econofuri.vercel.app): 書類の裏に「裏紙っぽい模様」を刷った表裏交互のPDFを作る、ちょっと自虐的な印刷アプリ。 (about: https://www.kinomeno.com/works/econofuri/)
+- [LIFE GRID](https://life-grid-omega.vercel.app): ルールだけが決まった世界で、生き物が自分たちで進化していく様子を眺める観察シミュレーション。 (about: https://www.kinomeno.com/works/lifegrid/)
+- [キノメノ科学館 / Kinomeno Science Museum](https://kinomeno-science-museum.vercel.app/): さわって体感する展示が並ぶ、ブラウザの中の子ども向け科学館。 (about: https://www.kinomeno.com/works/kagakukan/)
+- [ととのえ / Totonoe](https://kinomeno.github.io/note-image-generator/): 手持ちの画像を、note の見出し画像にちょうどよい大きさ（1920×1006）に整えるツール。 (about: https://www.kinomeno.com/works/totonoe/)
+
+## ほりほり工場 / Dig Factory Tycoon
+- [遊び方ガイド](https://horihori.kinomeno.com/guide/)
+- [資源と製品の一覧（作り方・売値）](https://horihori.kinomeno.com/guide/items.html)
+- [機械の一覧](https://horihori.kinomeno.com/guide/machines.html)
+- [よくある質問](https://horihori.kinomeno.com/guide/faq.html)
+- [English guide](https://horihori.kinomeno.com/en/guide/)
+- [制作日誌（AIが書く開発日誌）](https://horihori.kinomeno.com/diary/)
+
+## Links
+- [note](https://note.com/kinomeno)
+- [X](https://x.com/kinome_no)
+- [About this site](https://www.kinomeno.com/about/)
